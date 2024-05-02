@@ -1,0 +1,36 @@
+body{
+    
+        margin: 0;
+        padding: 0;
+        font-family: Arial, sans-serif;
+        background-image: linear-gradient(135deg, #56ff40, #2feed4d5);
+        color: #fff;
+   
+}
+h1{
+    text-align: center;
+    
+}
+p{
+    text-align: center;
+}
+button{
+    margin-left: 540px;
+}
+.pts{
+    display: flex;
+
+}
+.spot{
+    
+    color: red;
+    text-decoration: none;
+    background: none;
+    max-width: 30px;
+    max-height: 30px;    
+}
+.playlist{
+    box-sizing: border-box;
+    
+    margin: 20px;
+}
