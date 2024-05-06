@@ -14,7 +14,7 @@ h1{
 p{
     text-align: center;
 }
-button{
+.yt{
     margin-left: 540px;
 }
 .pts{
@@ -22,7 +22,7 @@ button{
 
 }
 .spot{
-    
+    display: block;
     color: red;
     text-decoration: none;
     background: none;
@@ -33,4 +33,14 @@ button{
     box-sizing: border-box;
     
     margin: 20px;
+}
+.vml{
+    margin-left: 25px;
+} 
+h2{
+font-size: 18px;
+} 
+.terno{
+    max-width: min-content;
+    max-height: min-content;
 }
